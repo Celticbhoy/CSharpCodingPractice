@@ -1,0 +1,7 @@
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojAssemblyReference.cache
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\daniel.treacy\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
